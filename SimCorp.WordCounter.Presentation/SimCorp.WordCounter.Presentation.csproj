@@ -9,7 +9,6 @@
 
     <ItemGroup>
       <ProjectReference Include="..\SimCorp.WordCounter.Application\SimCorp.WordCounter.Application.csproj" />
-      <ProjectReference Include="..\SimCorp.WordCounter.Domain\SimCorp.WordCounter.Domain.csproj" />
     </ItemGroup>
 
 </Project>
